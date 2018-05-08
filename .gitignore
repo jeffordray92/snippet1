@@ -1,0 +1,17 @@
+# Generated and Temporary Files
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+.coverage
+
+# Project Dev-specific Files
+*.db
+*.log
+*.sqlite3
+/src/sordas/local.py
+/var/*
+
+# IDE-Generated Files
+.project
+.pydevproject
